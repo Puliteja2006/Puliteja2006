@@ -62,8 +62,8 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Showcases projects, certifications, and development journey
 * Built using HTML, CSS
 
-🔗 Live: https://yourusername.github.io/portfolio-website
-💻 Code: https://github.com/yourusername/portfolio-website
+🔗 Live: 
+💻 Code: https://github.com/Puliteja2006/portfolio-website
 
 
 ### 💬 Real-Time Chat Application
