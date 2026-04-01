@@ -72,7 +72,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Supports real-time messaging with persistent data handling
 * Demonstrates networking, concurrency, and system design
 
-💻 Code: https://github.com/yourusername/chat-application
+💻 Code: https://github.com/Puliteja2006/Java-Chat-Application
 
 
 ### 💰 Expense Tracker Application
