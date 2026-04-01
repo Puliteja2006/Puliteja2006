@@ -111,8 +111,8 @@ Passionate about building scalable applications, real-time systems, and modern w
 
 ## 🔗 Connect With Me:
 
-* 💻 GitHub: https://github.com/yourusername
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 💻 GitHub: https://github.com/Puliteja2006
+* 🔗 LinkedIn: 
 
 
 ## 🎯 Vision:
