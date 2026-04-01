@@ -62,7 +62,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Showcases projects, certifications, and development journey
 * Built using HTML, CSS
 
-🔗 Live: 
+🔗 Live: https://github.com/Puliteja2006
 💻 Code: https://github.com/Puliteja2006/portfolio-website
 
 
