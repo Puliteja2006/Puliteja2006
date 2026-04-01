@@ -1,94 +1,124 @@
-Hi 👋 I'm Puli Sai Srinivasa Teja
+# 👋 Hi, I'm Puli Sai Srinivasa Teja
 
-💻 Aspiring Software Development Engineer (SDE) passionate about building real-world applications using Java and Web Technologies.
-
-I enjoy solving problems, building backend systems, and continuously learning modern software development tools.
-
-
-🚀 About Me
-
-- 🎓 Computer Science student
-- 💡 Interested in Software Development & Web Development
-- 🔭 Currently building Java backend projects
-- 🌱 Learning Spring Boot and Full Stack Development
-- 📌 Goal: Become a skilled Software Engineer
+Software Development Engineer | Full Stack Developer (Java + Spring Boot)
+Passionate about building scalable applications, real-time systems, and modern web interfaces.
 
 
-🛠 Tech Stack
+## 🚀 About Me:
 
-Programming
-
-- Java
-- SQL
-
-Backend Development
-
-- JDBC
-- MySQL
-- OOP (Object Oriented Programming)
-
-Tools & IDEs
-
-- NetBeans
-- IntelliJ IDEA
-- Git & GitHub
+* 💻 Strong in **Java, Spring Boot, and Frontend Development**
+* 🧠 Skilled in **Data Structures & Algorithms (DSA)**
+* ⚡ Interested in **System Design, Backend Development, and AI**
+* 📈 Focused on building **real-world scalable applications**
+* 🎯 Goal: Become a **high-impact Software Engineer**
 
 
-📂 Projects
+## 🛠️ Technical Skills:
 
-💰 Expense Tracker
+### 💻 Programming & Core
 
-Java application to manage daily expenses using JDBC and MySQL.
+* Java
+* JavaScript
+* Data Structures & Algorithms (DSA)
 
-Features:
+### 🌐 Frontend
 
-- Add expenses
-- View expenses
-- Database integration
+* HTML5
+* CSS3
+* Responsive Design
 
+### ⚙️ Backend
 
-🎓 Student Management System
+* Spring Boot
+* REST API Development (learning / extendable)
 
-Java-based system for managing student records.
+### 🗄️ Database
 
-Features:
-
-- Add students
-- Search students
-- Delete records
-- Database storage
-
-
-📚 Library Management System
-
-Console-based library management application.
-
-Features:
-
-- Add books
-- Issue books
-- Return books
-- Delete books
-- MySQL database integration
+* SQL
+* MySQL
 
 
-📈 Currently Learning
+## 🧠 Additional Skills:
 
-- Spring Boot
-- Data Structures & Algorithms
-- Full Stack Web Development
-
-
-🎯 Future Goals
-
-- Build scalable backend applications
-- Contribute to open-source projects
-- Become a professional Software Development Engineer
+* Prompt Engineering
+* Zoho Creator
 
 
-🌐 Connect With Me
+## 🤝 Soft Skills:
 
-GitHub: https://github.com/Puliteja2006
+* Problem Solving
+* Analytical Thinking
+* Communication
+* Team Collaboration
+* Adaptability
+* Continuous Learning Mindset
 
 
-⭐ Always learning. Always building.
+## 🚀 Featured Projects:
+
+### 🌐 Personal Portfolio Website
+
+* Modern responsive portfolio with clean UI and animations
+* Showcases projects, certifications, and development journey
+* Built using HTML, CSS
+
+🔗 Live: https://yourusername.github.io/portfolio-website
+💻 Code: https://github.com/yourusername/portfolio-website
+
+
+### 💬 Real-Time Chat Application
+
+* Client-server chat system using Java socket programming
+* Supports real-time messaging with persistent data handling
+* Demonstrates networking, concurrency, and system design
+
+💻 Code: https://github.com/yourusername/chat-application
+
+
+### 💰 Expense Tracker Application
+
+* Data-driven system to track and analyze daily expenses
+* Includes CRUD operations and financial insights
+* Built with HTML, CSS, JavaScript
+
+💻 Code: https://github.com/yourusername/expense-tracker
+
+
+### 🎓 Student Management System
+
+* Backend system for managing student records
+* Implements CRUD operations and relational database design
+* Built using Java and MySQL
+
+💻 Code: https://github.com/yourusername/student-management-system
+
+
+### 📚 Library Management System
+
+* Full-featured system for managing books and transactions
+* Includes issue/return workflow and database relationships
+* Demonstrates system design and backend architecture
+
+💻 Code: https://github.com/yourusername/library-management-system
+
+
+## 📜 Certifications:
+
+* Java Programming — Udemy
+* HTML, CSS & JavaScript Bootcamp — Udemy
+* Prompt Engineering Certification
+
+
+## 🔗 Connect With Me:
+
+* 💻 GitHub: https://github.com/yourusername
+* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+
+## 🎯 Vision:
+
+I aim to build **scalable, high-performance applications** and continuously improve my expertise in **backend systems, real-time architectures, and problem-solving (DSA)**.
+
+
+⭐ *Always learning. Always building. Always improving.*
+
