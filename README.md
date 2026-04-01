@@ -99,7 +99,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Includes issue/return workflow and database relationships
 * Demonstrates system design and backend architecture
 
-💻 Code: https://github.com/yourusername/library-management-system
+💻 Code: https://github.com/Puliteja2006/Library-Management-System
 
 
 ## 📜 Certifications:
