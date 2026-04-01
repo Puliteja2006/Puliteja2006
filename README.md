@@ -81,7 +81,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Includes CRUD operations and financial insights
 * Built with HTML, CSS, JavaScript
 
-💻 Code: https://github.com/yourusername/expense-tracker
+💻 Code: https://github.com/Puliteja2006/Expense-Tracker
 
 
 ### 🎓 Student Management System
