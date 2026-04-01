@@ -112,7 +112,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 ## 🔗 Connect With Me:
 
 * 💻 GitHub: https://github.com/Puliteja2006
-* 🔗 LinkedIn: 
+* 🔗 LinkedIn: https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
 
 
 ## 🎯 Vision:
