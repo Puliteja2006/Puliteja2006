@@ -90,7 +90,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 * Implements CRUD operations and relational database design
 * Built using Java and MySQL
 
-💻 Code: https://github.com/yourusername/student-management-system
+💻 Code: https://github.com/Puliteja2006/Student-Management-System
 
 
 ### 📚 Library Management System
