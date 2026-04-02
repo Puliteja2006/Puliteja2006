@@ -93,7 +93,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 💻 Code: https://github.com/Puliteja2006/Student-Management-System
 
 
-### 📚 Library Management System
+### 📚 Library Management System:
 
 * Full-featured system for managing books and transactions
 * Includes issue/return workflow and database relationships
