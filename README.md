@@ -84,7 +84,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 💻 Code: https://github.com/Puliteja2006/Expense-Tracker
 
 
-### 🎓 Student Management System
+### 🎓 Student Management System:
 
 * Backend system for managing student records
 * Implements CRUD operations and relational database design
