@@ -56,7 +56,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 
 ## 🚀 Featured Projects:
 
-### 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio Website:
 
 * Modern responsive portfolio with clean UI and animations
 * Showcases projects, certifications, and development journey
