@@ -75,7 +75,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 💻 Code: https://github.com/Puliteja2006/Java-Chat-Application
 
 
-### 💰 Expense Tracker Application
+### 💰 Expense Tracker Application:
 
 * Data-driven system to track and analyze daily expenses
 * Includes CRUD operations and financial insights
