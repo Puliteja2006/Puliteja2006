@@ -66,7 +66,7 @@ Passionate about building scalable applications, real-time systems, and modern w
 💻 Code: https://github.com/Puliteja2006/portfolio-website
 
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat Application:
 
 * Client-server chat system using Java socket programming
 * Supports real-time messaging with persistent data handling
