@@ -81,7 +81,7 @@ A client-server based real-time messaging system built using Java socket program
 
 A data-driven application to track and analyze expenses, implementing structured CRUD operations and financial insights.
 
-💻 Code: https://github.com/yourusername/expense-tracker
+💻 Code: https://github.com/Puliteja2006/Expense-Tracker
 
 
 ### 🎓 Student Management System:
