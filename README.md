@@ -95,7 +95,7 @@ A backend system for managing student records using relational database design a
 
 A structured system for managing books, users, and transactions with a focus on database relationships and system workflow.
 
-💻 Code: https://github.com/yourusername/library-management-system
+💻 Code: https://github.com/Puliteja2006/Library-Management-System
 
 
 ## 📜 Certifications:
