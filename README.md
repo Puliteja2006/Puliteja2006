@@ -88,7 +88,7 @@ A data-driven application to track and analyze expenses, implementing structured
 
 A backend system for managing student records using relational database design and modular architecture.
 
-💻 Code: https://github.com/yourusername/student-management-system
+💻 Code: https://github.com/Puliteja2006/Student-Management-System
 
 
 ### 📚 Library Management System:
