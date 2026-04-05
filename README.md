@@ -66,15 +66,15 @@ I focus on building **scalable, efficient, and real-world applications** while c
 
 A modern, responsive portfolio showcasing my projects, skills, certifications, and development journey with a focus on clean UI and performance.
 
-🔗 Live: https://yourusername.github.io/portfolio-website
-💻 Code: https://github.com/yourusername/portfolio-website
+🔗 Live: 
+💻 Code: 
 
 
 ### 💬 Real-Time Chat Application:
 
 A client-server based real-time messaging system built using Java socket programming, demonstrating networking, concurrency, and system design principles.
 
-💻 Code: https://github.com/yourusername/chat-application
+💻 Code: 
 
 
 ### 💰 Expense Tracker Application:
