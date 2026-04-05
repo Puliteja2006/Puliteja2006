@@ -108,7 +108,7 @@ A structured system for managing books, users, and transactions with a focus on 
 ## 🔗 Connect With Me:
 
 * 💻 GitHub: https://github.com/Puliteja2006
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 🔗 LinkedIn: https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
 
 
 ## 🎯 Career Vision:
