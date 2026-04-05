@@ -66,7 +66,7 @@ I focus on building **scalable, efficient, and real-world applications** while c
 
 A modern, responsive portfolio showcasing my projects, skills, certifications, and development journey with a focus on clean UI and performance.
 
-🔗 Live: 
+🔗 Live: https://github.com/Puliteja2006
 💻 Code: 
 
 
@@ -107,7 +107,7 @@ A structured system for managing books, users, and transactions with a focus on 
 
 ## 🔗 Connect With Me:
 
-* 💻 GitHub: https://github.com/yourusername
+* 💻 GitHub: https://github.com/Puliteja2006
 * 🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
 
