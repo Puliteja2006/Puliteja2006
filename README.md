@@ -3,9 +3,8 @@
   Software Development Engineer | Full Stack Developer (Java + Spring Boot)
   Building scalable backend systems and real-time applications with a focus on performance, clean architecture, and problem-solving.
 
----
 
-## 🚀 About Me
+## 🚀 About Me:
 
 I am a motivated Software Development Engineer with a strong foundation in **backend development, data structures, and modern web technologies**.
 I focus on building **scalable, efficient, and real-world applications** while continuously improving my problem-solving and system design skills.
@@ -15,9 +14,8 @@ I focus on building **scalable, efficient, and real-world applications** while c
 * ⚡ Interested in Backend Systems, System Design, and AI
 * 📈 Passionate about building impactful software solutions
 
----
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills:
 
 ### 💻 Programming
 
@@ -46,16 +44,14 @@ I focus on building **scalable, efficient, and real-world applications** while c
 * SQL
 * MySQL
 
----
 
-## 🧠 Additional Skills
+## 🧠 Additional Skills:
 
 * Prompt Engineering
 * Zoho Creator
 
----
 
-## 🤝 Soft Skills
+## 🤝 Soft Skills:
 
 * Analytical Thinking
 * Problem Solving
@@ -63,71 +59,62 @@ I focus on building **scalable, efficient, and real-world applications** while c
 * Team Collaboration
 * Adaptability & Continuous Learning
 
----
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
-### 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio Website:
 
 A modern, responsive portfolio showcasing my projects, skills, certifications, and development journey with a focus on clean UI and performance.
 
 🔗 Live: https://yourusername.github.io/portfolio-website
 💻 Code: https://github.com/yourusername/portfolio-website
 
----
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat Application:
 
 A client-server based real-time messaging system built using Java socket programming, demonstrating networking, concurrency, and system design principles.
 
 💻 Code: https://github.com/yourusername/chat-application
 
----
 
-### 💰 Expense Tracker Application
+### 💰 Expense Tracker Application:
 
 A data-driven application to track and analyze expenses, implementing structured CRUD operations and financial insights.
 
 💻 Code: https://github.com/yourusername/expense-tracker
 
----
 
-### 🎓 Student Management System
+### 🎓 Student Management System:
 
 A backend system for managing student records using relational database design and modular architecture.
 
 💻 Code: https://github.com/yourusername/student-management-system
 
----
 
-### 📚 Library Management System
+### 📚 Library Management System:
 
 A structured system for managing books, users, and transactions with a focus on database relationships and system workflow.
 
 💻 Code: https://github.com/yourusername/library-management-system
 
----
 
-## 📜 Certifications
+## 📜 Certifications:
 
 * Java Programming — Udemy
 * HTML, CSS & JavaScript Bootcamp — Udemy
 * Prompt Engineering Certification
 
----
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me:
 
 * 💻 GitHub: https://github.com/yourusername
 * 🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
----
 
-## 🎯 Career Vision
+## 🎯 Career Vision:
 
 To design and develop **scalable, high-performance software systems** and grow as a Software Engineer with expertise in **backend development, real-time architectures, and intelligent systems**.
 
----
 
 ⭐ *Focused on learning, building, and delivering impactful solutions.*
 
