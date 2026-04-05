@@ -67,7 +67,7 @@ I focus on building **scalable, efficient, and real-world applications** while c
 A modern, responsive portfolio showcasing my projects, skills, certifications, and development journey with a focus on clean UI and performance.
 
 🔗 Live: https://github.com/Puliteja2006
-💻 Code: 
+💻 Code: https://github.com/Puliteja2006/portfolio-website
 
 
 ### 💬 Real-Time Chat Application:
