@@ -74,7 +74,7 @@ A modern, responsive portfolio showcasing my projects, skills, certifications, a
 
 A client-server based real-time messaging system built using Java socket programming, demonstrating networking, concurrency, and system design principles.
 
-💻 Code: 
+💻 Code: https://github.com/Puliteja2006/Java-Chat-Application
 
 
 ### 💰 Expense Tracker Application:
