@@ -1,351 +1,142 @@
-# 👋 Hi, I'm Puli Sai Srinivasa Teja
+# Puli Sai Srinivasa Teja
 
-# 🚀 AI Full Stack Developer | Software Development Engineer | Java Backend Developer
+**AI Full Stack Developer | Java Backend Developer | Spring Boot | React.js**
 
-### Building intelligent, scalable, and enterprise-grade software solutions using Java, Spring Boot, React.js, Artificial Intelligence, and Modern Web Technologies.
+B.Tech Computer Science and Engineering student (graduating 2027, CGPA 8.8/10) at Dhanalakshmi Srinivasan University. I build JWT-secured Java and Spring Boot backends with React front ends and add LLM-powered features to them. I have built two AI-powered full-stack applications and completed two remote internships.
 
-*"Passionate about solving real-world problems through software engineering, AI-powered applications, and scalable backend systems."*
+**Open to:** Software Development Engineer (SDE), Java Backend Developer, and Full Stack Developer roles, including internships and 2027 graduate positions.
 
+Portfolio:https://puliteja2006.github.io/My-Portfolio
+Resume:https://puliteja2006.github.io/My-Portfolio/resume.pdf
+LinkedIn:https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
+LeetCode:https://leetcode.com/u/PULITEJA/
+HackerRank:https://www.hackerrank.com/profile/pulisaisrinivas1
+Email:mailto:pulisaisrinivasateja@gmail.com
 
-# 🚀 About Me
 
-I am a Computer Science Engineering student passionate about building **enterprise-grade Full Stack and AI-powered applications** using modern software engineering practices.
+## About
 
-I enjoy designing scalable backend systems, developing responsive web applications, and solving real-world problems through technology. My goal is to become a Software Development Engineer specializing in Full Stack Development, Artificial Intelligence, and Cloud Technologies.
+I focus on reliable, maintainable software built from the backend up: clean REST API design, secure role-based authentication, and relational database design. My foundation is in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Computer Networks, and Operating Systems, practiced through 150+ LeetCode problems and HackerRank challenges.
 
-### 🌟 Interests
 
-- 🤖 Artificial Intelligence
-- ☕ Java Backend Development
-- 🌐 Full Stack Development
-- ⚙ Spring Boot & REST APIs
-- 📊 Data Structures & Algorithms
-- 🏗 Software Architecture
-- ☁ Cloud Technologies
-- 🚀 Enterprise Software Development
+## Education
 
+**Bachelor of Technology (B.Tech), Computer Science and Engineering**
+Dhanalakshmi Srinivasan University | 2023 – Expected 2027 | CGPA: 8.8/10
 
-# 💻 Technical Skills
+**Higher Secondary (Intermediate)**
+Krishnamurthy Junior College | 2021 – 2023 | 85.8%
 
-## 💻 Programming Languages
 
-- Java
-- JavaScript
-- SQL
+## Experience
 
+**Software Engineering Trainee** | YuvaIntern (Remote) | Jun 2026 – Aug 2026
+- Completed software development assignments covering project planning, system architecture, and implementation of a mini software module.
+- Practiced software testing, debugging, code review, and refactoring to improve code quality and maintainability.
+- Documented testing methods, findings, and improvements while working on performance evaluation and deployment planning.
 
-## 🌐 Frontend Development
+**Full Stack Development Intern** | Thiranex Technologies (Remote) | Apr 2026 – May 2026
+- Developed backend REST APIs using Java, Spring Boot, and MySQL to support application functionality and data management.
+- Assisted with API integration, testing, and debugging using Postman, Git, and GitHub.
+- Applied clean coding practices and collaborative workflows while contributing to full-stack development tasks.
 
-- React.js
-- HTML5
-- CSS3
-- Responsive Web Design
 
+## Technical Skills
 
-## ⚙ Backend Development
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, SQL |
+| **Backend** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT Authentication |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Databases** | MySQL, PostgreSQL, JDBC |
+| **AI & Generative AI** | LLM Integration, Prompt Engineering, AI Application Development |
+| **Tools** | Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
+| **CS Foundations** | DSA, OOP, DBMS, Computer Networks, Operating Systems |
 
-- Spring Boot
-- Spring Framework
-- Spring Data JPA
-- Hibernate
-- REST API Development
 
+## Featured Projects
 
-## 🗄 Database
+### 1. AI Placement Preparation System | [GitHub](https://github.com/Puliteja2006/AI-Placement-Preparation-System)
+*AI-powered career development platform, 2026*
 
-- MySQL
+Helps students improve resume quality and interview readiness with data-backed feedback.
 
+- **What I built:** the AI Resume Analyzer with ATS scoring, Resume Builder, AI Mock Interview module, Skill Gap Analysis, and Analytics Dashboard, exposed through secure REST APIs with JWT authentication.
+- **Features:** AI resume analysis, ATS score, skill-gap analysis, AI mock interview, resume builder, placement readiness dashboard, personalized learning recommendations, student performance analytics, admin dashboard
+- **Tech stack:** Java, Spring Boot, Spring Security, React.js, MySQL, Hibernate, JWT, REST APIs, LLM Integration
 
-## 🛠 Development Tools
+### 2. NexusCommerce AI | [GitHub](https://github.com/Puliteja2006/Nexus-Commerce-AI)
+*Multi-vendor e-commerce platform with Customer, Seller, and Admin portals, 2026*
 
-- Git
-- GitHub
-- Maven
-- VS Code
-- IntelliJ IDEA
-- Postman
+A marketplace with separate, secured portals for customers, sellers, and admins, plus an AI shopping assistant and product recommendations.
 
+- **What I built:** Spring Security with JWT-based role authentication across all three portals, REST APIs for search, orders, and inventory, and the AI shopping assistant and recommendation features.
+- **Features:** customer, seller, and admin portals; AI shopping assistant and product recommendations; product search; shopping cart and wishlist; product comparison; order tracking and purchase history; coupons and rewards; inventory management; seller analytics and revenue dashboard
+- **Tech stack:** Java 21, Spring Boot, Spring Security, JWT, React.js, Tailwind CSS, Hibernate, PostgreSQL, REST APIs
 
-## 🤖 AI & Productivity
+### 3. Expense Tracker
+*Personal finance management, Java desktop application*
 
-- Prompt Engineering
-- AI-assisted Development
+Helps users record and categorize daily expenses and review their monthly spending.
 
+- **Features:** user authentication, add/edit/delete expenses, expense categories, monthly reports
+- **Tech stack:** Java, JDBC, MySQL
 
-## 🤝 Soft Skills
+### 4. Student Management System
+*Student record management with database operations*
 
-- Problem Solving
-- Analytical Thinking
-- Team Collaboration
-- Communication
-- Adaptability
-- Continuous Learning
+Replaces manual paperwork by keeping student records in a database.
 
-- # 🌟 Featured Projects
+- **Features:** student registration, record management, full CRUD operations, search, update and delete student details
+- **Tech stack:** Java, JDBC, MySQL
 
+### 5. Library Management System
+*Library automation for books, members, and borrowing*
 
-# 🤖 AI Placement Preparation System
+Automates book issue and return while keeping accurate records of books and members.
 
-### AI-Powered Placement Readiness & Interview Analytics Platform
+- **Features:** book management, member management, issue and return books, book search
+- **Tech stack:** Java, JDBC, MySQL
 
-An intelligent full-stack web application developed to help students prepare for placements through AI-powered resume analysis, ATS evaluation, personalized learning recommendations, placement analytics, and interview preparation tools.
+### 6. Personal Portfolio Website | [Live site](https://puliteja2006.github.io/My-Portfolio/)
+*Portfolio with projects, experience, hackathons, and downloadable resume*
 
-### 🚀 Key Features
+Hosted on GitHub Pages.
 
-- AI Resume Analysis
-- ATS Resume Score
-- Skill Gap Analysis
-- Placement Readiness Dashboard
-- Resume Upload
-- Personalized Learning Recommendations
-- Student Performance Analytics
-- Admin Dashboard
-- Secure Authentication
-- Responsive User Interface
 
-### 💻 Tech Stack
+## Hackathons
 
-- Java
-- Spring Boot
-- Spring Security
-- React.js
-- REST APIs
-- MySQL
-- Hibernate
-- Git & GitHub
+- **NeuraMorphix HackForge 2026** (Sep 2026): two-day online AI-focused hackathon organized by Team NeuraMorphix.
+- **HACKDAY 1.0** (Sep 2026): eight-hour online hackathon by Decodep Community, theme "Tech for a Better Tomorrow".
 
-### 🎯 Project Usage
 
-The platform enables students to evaluate their resumes, identify missing skills, monitor placement readiness, and prepare effectively for technical interviews through an intelligent and user-friendly interface.
+## Certifications
 
+- Java Programming: Beginner to Master, Udemy (2025)
+- Prompt Engineering Mastery: From Basics to Advanced, Udemy (2026)
+- Frontend Web Development Bootcamp (HTML, CSS, JavaScript & React.js), Udemy (2026)
+- HackerRank: Java, SQL, and Software Engineer Intern certifications
 
-# 🛒 Nexus Commerce 
+## Activities
 
-### Enterprise AI-Powered Multi-Vendor E-Commerce Platform
+- **Zoho Young Creator Program:** completed, with practical experience in low-code application development.
+- **Computer Society of India (CSI):** active student member.
+- **Competitive coding:** 150+ problems solved on LeetCode; HackerRank challenges completed with badges.
 
-A production-ready enterprise marketplace with dedicated Customer, Seller, and Admin portals designed to deliver a secure, intelligent, and scalable online shopping experience.
 
-### 🚀 Key Features
+## Current Focus
 
-- Customer Portal
-- Seller Portal
-- Admin Portal
-- AI Product Recommendations
-- Intelligent Product Search
-- Category Management
-- Shopping Cart
-- Wishlist
-- Product Comparison
-- Order Tracking
-- Purchase History
-- Coupons & Rewards
-- Inventory Management
-- Seller Analytics
-- Revenue Dashboard
-- Role-Based Authentication
-- JWT Security
-- Responsive Enterprise UI
+- Building full-stack applications with Spring Boot and React.js
+- Practicing Data Structures & Algorithms
+- Learning cloud deployment and scalable software architecture
 
-### 💻 Tech Stack
 
-- Java
-- Spring Boot
-- Spring Security
-- React.js
-- Tailwind CSS
-- REST APIs
-- Hibernate
-- MySQL
+## Contact
 
-### 🎯 Project Usage
-
-Customers can browse products, place orders, and manage purchases. Sellers can manage products, inventory, and sales. Administrators monitor users, sellers, products, and overall marketplace operations through a centralized dashboard.
-
-
-# 💰 Expense Tracker Application
-
-### Personal Finance Management System
-
-A desktop-based application that helps users efficiently manage daily expenses, monitor spending habits, and generate financial reports.
-
-### 🚀 Key Features
-
-- User Authentication
-- Add Expenses
-- Edit Expenses
-- Delete Expenses
-- Monthly Reports
-- Expense Categories
-- SQL Database Integration
-
-### 💻 Tech Stack
-
-- Java
-- JDBC
-- MySQL
-
-### 🎯 Project Usage
-
-Allows users to organize financial records, categorize expenses, and analyze monthly spending for better financial planning.
-
-
-# 🎓 Student Management System
-
-### Student Information Management Platform
-
-A Java-based application designed to simplify student record management through efficient database operations.
-
-### 🚀 Key Features
-
-- Student Registration
-- Student Record Management
-- CRUD Operations
-- Search Student
-- Update Student Details
-- Delete Student Records
-
-### 💻 Tech Stack
-
-- Java
-- JDBC
-- MySQL
-
-### 🎯 Project Usage
-
-Educational institutions can maintain student information digitally, reducing manual paperwork and improving administrative efficiency.
-
-
-# 📚 Library Management System
-
-### Digital Library Automation System
-
-A database-driven application developed to manage books, members, and borrowing operations efficiently.
-
-### 🚀 Key Features
-
-- Book Management
-- Member Management
-- Issue Books
-- Return Books
-- Search Books
-- Database Management
-
-### 💻 Tech Stack
-
-- Java
-- JDBC
-- MySQL
-
-### 🎯 Project Usage
-
-Helps libraries automate book issue and return processes while maintaining accurate records of books and members.
-
-
-# 🚀 Project Highlights
-
-✔ Enterprise-Level Full Stack Development
-
-✔ AI-Powered Applications
-
-✔ REST API Development
-
-✔ Role-Based Authentication
-
-✔ Responsive User Interfaces
-
-✔ Database Design & Integration
-
-✔ Backend System Development
-
-✔ Modern Software Architecture
-
-✔ Production-Ready Applications
-
-✔ Real-World Problem Solving
-
-
-# 📜 Certifications
-
-- ☕ Java Programming – Udemy
-- 🌐 HTML, CSS & JavaScript Bootcamp – Udemy
-- 🤖 Prompt Engineering Certification
-- 💻 HackerRank Java Programming (Completed 30-Day Challenge)
-
-
-# 🏆 Achievements
-
-- 🚀 Built enterprise-level full-stack web applications using Java, Spring Boot, React.js, and MySQL.
-- 🤖 Developed AI-powered applications focused on placement preparation and intelligent e-commerce.
-- 📈 Completed multiple real-world software engineering projects following clean architecture principles.
-- 💡 Continuously improving problem-solving skills through Data Structures & Algorithms and backend development.
-
-
-# 💼 What I Do
-
-I enjoy designing and developing modern software solutions that combine scalable backend systems with responsive frontend experiences.
-
-My focus areas include:
-
-- Enterprise Full Stack Development
-- Backend API Development
-- Artificial Intelligence Applications
-- RESTful Web Services
-- Database Design
-- Software Architecture
-- Secure Authentication
-- Responsive UI Development
-
-
-# 🎯 Career Objective
-
-My goal is to become a highly skilled **Software Development Engineer (SDE)** specializing in **AI-powered Full Stack Development**, Backend Engineering, and Enterprise Software Architecture.
-
-I aspire to build intelligent, scalable, and impactful software solutions while continuously learning modern technologies and contributing to innovative products.
-
-
-# 🤝 Connect With Me
-
-### 💻 GitHub
-
-**https://github.com/Puliteja2006**
-
-### 🔗 LinkedIn
-
-**https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326**
-
-
-# 💡 Developer Philosophy
-
-> **"Great software is built by continuously learning, solving meaningful problems, and writing clean, maintainable code."**
-
-
-# 📌 Current Focus
-
-- Building enterprise-grade Full Stack applications
-- Improving Data Structures & Algorithms
-- Mastering Java Backend Development
-- Developing AI-powered software solutions
-- Learning scalable software architecture and cloud deployment
-
-
-# 🚀 Open Source
-
-I believe in continuous learning, knowledge sharing, and building practical software solutions that solve real-world problems.
-
-I'm always interested in exploring new technologies, improving existing projects, and contributing to the software development community.
-
----
-
-# ⭐ Thank You
-
-Thank you for visiting my GitHub profile!
-
-If you find my projects interesting or helpful, feel free to explore my repositories, provide feedback, or connect with me on LinkedIn.
-
-Let's build amazing software together!
-
-
-
-## 🚀 "Code with Purpose • Build with Passion • Learn without Limits"
-
-**⭐ Don't forget to star the repositories if you like them! ⭐**
+- **Email:** [pulisaisrinivasateja@gmail.com](mailto:pulisaisrinivasateja@gmail.com)
+- **Portfolio:** [https://puliteja2006.github.io/My-Portfolio/](https://puliteja2006.github.io/My-Portfolio/)
+- **Resume (PDF):** [https://puliteja2006.github.io/My-Portfolio/resume.pdf](https://puliteja2006.github.io/My-Portfolio/resume.pdf)
+- **LinkedIn:** [https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326](https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326)
+- **GitHub:** [https://github.com/Puliteja2006](https://github.com/Puliteja2006)
+- **LeetCode:** [https://leetcode.com/u/PULITEJA/](https://leetcode.com/u/PULITEJA/)
+- **HackerRank:** [https://www.hackerrank.com/profile/pulisaisrinivas1](https://www.hackerrank.com/profile/pulisaisrinivas1)
