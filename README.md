@@ -6,18 +6,15 @@ B.Tech Computer Science and Engineering student (graduating 2027, CGPA 8.8/10) a
 
 **Open to:** Software Development Engineer (SDE), Java Backend Developer, and Full Stack Developer roles, including internships and 2027 graduate positions.
 
-Portfolio:https://puliteja2006.github.io/My-Portfolio
-Resume:https://puliteja2006.github.io/My-Portfolio/resume.pdf
-LinkedIn:https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
-LeetCode:https://leetcode.com/u/PULITEJA/
-HackerRank:https://www.hackerrank.com/profile/pulisaisrinivas1
-Email:mailto:pulisaisrinivasateja@gmail.com
+[Portfolio](https://puliteja2006.github.io/My-Portfolio/) | [Resume](https://puliteja2006.github.io/My-Portfolio/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326) | [GitHub](https://github.com/Puliteja2006) | [LeetCode](https://leetcode.com/u/PULITEJA/) | [HackerRank](https://www.hackerrank.com/profile/pulisaisrinivas1) | [Email](mailto:pulisaisrinivasateja@gmail.com)
 
+---
 
 ## About
 
 I focus on reliable, maintainable software built from the backend up: clean REST API design, secure role-based authentication, and relational database design. My foundation is in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Computer Networks, and Operating Systems, practiced through 150+ LeetCode problems and HackerRank challenges.
 
+---
 
 ## Education
 
@@ -27,6 +24,7 @@ Dhanalakshmi Srinivasan University | 2023 – Expected 2027 | CGPA: 8.8/10
 **Higher Secondary (Intermediate)**
 Krishnamurthy Junior College | 2021 – 2023 | 85.8%
 
+---
 
 ## Experience
 
@@ -40,6 +38,7 @@ Krishnamurthy Junior College | 2021 – 2023 | 85.8%
 - Assisted with API integration, testing, and debugging using Postman, Git, and GitHub.
 - Applied clean coding practices and collaborative workflows while contributing to full-stack development tasks.
 
+---
 
 ## Technical Skills
 
@@ -53,6 +52,7 @@ Krishnamurthy Junior College | 2021 – 2023 | 85.8%
 | **Tools** | Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
 | **CS Foundations** | DSA, OOP, DBMS, Computer Networks, Operating Systems |
 
+---
 
 ## Featured Projects
 
@@ -103,12 +103,14 @@ Automates book issue and return while keeping accurate records of books and memb
 
 Hosted on GitHub Pages.
 
+---
 
 ## Hackathons
 
 - **NeuraMorphix HackForge 2026** (Sep 2026): two-day online AI-focused hackathon organized by Team NeuraMorphix.
 - **HACKDAY 1.0** (Sep 2026): eight-hour online hackathon by Decodep Community, theme "Tech for a Better Tomorrow".
 
+---
 
 ## Certifications
 
@@ -123,6 +125,7 @@ Hosted on GitHub Pages.
 - **Computer Society of India (CSI):** active student member.
 - **Competitive coding:** 150+ problems solved on LeetCode; HackerRank challenges completed with badges.
 
+---
 
 ## Current Focus
 
@@ -130,6 +133,7 @@ Hosted on GitHub Pages.
 - Practicing Data Structures & Algorithms
 - Learning cloud deployment and scalable software architecture
 
+---
 
 ## Contact
 
